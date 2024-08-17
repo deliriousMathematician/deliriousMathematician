@@ -1,4 +1,7 @@
-## Hi there 👋
+## yo yo yo welcome to my humble abode
+i plan on using this alot in the near future!
+got alot of projects to fill up my time with...
+hope to make your life better in some way shape or form some day <3
 
 <!--
 **deliriousMathematician/deliriousMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
