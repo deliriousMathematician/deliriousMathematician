@@ -1,5 +1,5 @@
 ## yo yo yo welcome to my humble abode
-i plan on using this alot in the near future!
+i plan on using this a lot in the near future!
 got alot of projects to fill up my time with...
 hope to make your life better in some way shape or form some day <3
 
