@@ -1,6 +1,10 @@
 ## welcome to my humble abode
-not much to see, so get out'a here
-![](dancing_galaxies.gif)
+
+<img src="t_span.gif" alt="gif made with dancing_galaxies repo" width="360"/>
+
+(made with [dancing_galaxies](https://github.com/deliriousMathematician/dancing_galaxies))
+
+not much to see, so get out'a here...
 <!--
 **deliriousMathematician/deliriousMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
