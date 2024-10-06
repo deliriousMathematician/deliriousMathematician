@@ -1,5 +1,6 @@
 ## welcome to my humble abode
 not much to see, so get out'a here
+![](dancing_galaxies.gif)
 <!--
 **deliriousMathematician/deliriousMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
