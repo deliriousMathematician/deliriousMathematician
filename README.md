@@ -5,7 +5,7 @@ The below gifs were created using the [dancing_galaxies](https://github.com/deli
 <p float="left">
   <img src="t_span.gif" alt="Stars" width="283" />
   <img src="t_span_dust.gif" alt="Dust" width="283" /> 
-  <img src="t_span_sph.gif" alt="Gas" width="284" />
+  <img src="t_span_sph.gif" alt="Gas" width="283" />
 </p>
 
 <h6 align="center">Time animations of the Stellar, Dust, and Gaseous components of a galactic simulation (15 kpc)</h6>
