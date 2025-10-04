@@ -1,6 +1,6 @@
 # welcome to my ~~ㅤhumbleㅤ~~ *spiraling* abode
 
-The below gifs were created using the [dancing_galaxies](https://github.com/deliriousMathematician/dancing_galaxies) repo.
+the below gifs were created using the [dancing_galaxies](https://github.com/deliriousMathematician/dancing_galaxies) repo:
 
 <p float="left">
   <img src="t_span_optimized.gif" alt="Stars" width="275" />
@@ -12,4 +12,4 @@ The below gifs were created using the [dancing_galaxies](https://github.com/deli
 
 #
 
-not much else to see (for now), so get out'a here...
+not much else to see - for now.....
