@@ -12,4 +12,14 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 
 #
 
+## toDoList:
+- local pdf combiner/arranger
+- get familiar with github pages
+- get comfy w/ html 'n css
+- start work on website
+- mess around w/ javascript
+- double pendulum website applet
+- mandelbrot on website
+- . . .
+
 not much else to see - for now.....
