@@ -1,4 +1,4 @@
-# welcome to my ~~ㅤhumbleㅤ~~ *spiraling* abode
+# welcome to my *spiraling* abode
 
 the below gifs were created using the [dancing_galaxies](https://github.com/deliriousMathematician/dancing_galaxies) repo:
 
@@ -8,18 +8,18 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
   <img src="t_span_sph_optimized.gif" alt="Gas" width="275" />
 </p>
 
-<h6 align="center">Time animations of the Stellar, Dust, and Gaseous components of a galactic simulation (15 kpc)</h6>
+<h6 align="center">temporal animations of the stellar (left), dust (centre), and gaseous (right) components of a galactic simulation (15 kpc)</h6>
 
-#
-
-## toDoList:
-- local pdf combiner/arranger
-- get familiar with github pages
+## websiteToDoList:
+- review github pages
 - get comfy w/ html 'n css
-- start work on website
+- start building website
 - mess around w/ php &or javascript
-- double pendulum website applet
-- mandelbrot on website
+- double pendulum applet
+- mandelbrot viewer
 - . . .
+## pdfToDoList
+- build a tool to restructure the pages of and combine pdfs 
+- develope a minimalist pdf viewer for studying
 
-not much else to see - for now.....
+not much else to see -- for now.....
