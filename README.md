@@ -21,5 +21,6 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 ## pdfToDoList
 - build a tool to restructure the pages of and combine pdfs 
 - develope a minimalist pdf viewer for studying
-
+- . . .
+##
 not much else to see -- for now.....
