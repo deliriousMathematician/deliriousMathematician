@@ -4,9 +4,9 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 
 <p align="center">
   <img src="t_span_optimized.gif" alt="Stars" width="275" />
-  &nbsp;&nbsp;&nbsp;
+  <!&nbsp;&nbsp;&nbsp;>
   <img src="t_span_dust_optimized.gif" alt="Dust" width="275" /> 
-  &nbsp;&nbsp;&nbsp;
+  <!&nbsp;&nbsp;&nbsp;>
   <img src="t_span_sph_optimized.gif" alt="Gas" width="275" />
 </p>
 
