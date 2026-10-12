@@ -27,4 +27,4 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 - C
 - . . .
 
-not much else to see -- for now.....
+not much else to see - for now. . .
