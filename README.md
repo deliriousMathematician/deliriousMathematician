@@ -13,7 +13,7 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 <h6 align="center">temporal animations of the stellar (left), dust (centre), and gaseous (right) components of a galactic simulation (15 kpc)</h6>
 
 ## websiteToDoList:
-- review github pages
+- review github pages documentation
 - get comfy w/ html 'n css
 - start building website
 - mess around w/ php &or javascript
@@ -22,12 +22,9 @@ the below gifs were created using the [dancing_galaxies](https://github.com/deli
 - . . .
 ## pdfToDoList
 - build a tool to restructure the pages of and combine pdfs 
-- develope a minimalist pdf viewer for studying
 - . . .
-
-## misc.ToDoList
+## miscToDoList
 - C
 - . . .
 
-##
 not much else to see -- for now.....
